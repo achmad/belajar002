@@ -1,0 +1,1 @@
+web : java -jar target/endorsed/webapp-runner.jar --port $PORT target/belajar002-1.0-SNAPSHOT.war
